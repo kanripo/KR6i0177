@@ -1,23 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:11:57.277131
+#+DATE: 2015-08-30 20:11:58.679997
 #+TITLE: 佛說金耀童子經
 #+PROPERTY: CBETA_ID T14n0546
 #+PROPERTY: ID KR6i0177
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 546
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0177_T_000-0850b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0177_T_001-0850b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.546¶
-
- 佛說金耀童子經¶
+No. 546¶
+佛說金耀童子經¶
 ¶
-西天中印度惹爛馱囉國¶
-密林寺三藏明教大師賜紫¶
-沙門臣天息災奉　詔譯¶
+西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣天息災奉　詔譯¶
 
 如是我聞：
 
